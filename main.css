@@ -1,0 +1,76 @@
+html, body {
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+p {
+  max-width: 65%;
+  min-width: 500px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.6rem;
+}
+
+div {
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+}
+
+.main1 {
+  padding-left: 30px;
+  height: 1000px;
+  min-width: 75%;
+  background-color: #DAF7A6
+}
+
+.main {
+  padding-left: 320px;
+  height: 1000px;
+  min-width: 75%;
+  background-color: #DAF7A6
+}
+
+.nav {
+  background-color: #B8B8B8;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+  height: 1000px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+  background-color:black;
+  color:white; 
+}
+td {
+	background-color: #E8E8E8
+}
+.highlight:link {
+  color: white;
+}
+.highlight:visited {
+  color: white;
+}
+
