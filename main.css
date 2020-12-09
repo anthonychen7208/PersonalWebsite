@@ -31,24 +31,25 @@ div {
 
 .main1 {
   padding-left: 30px;
-  height: 1000px;
+  height: 1600px;
   min-width: 75%;
   background-color: #DAF7A6
 }
 
 .main {
   padding-left: 320px;
-  height: 1000px;
+  height: 1600px;
   min-width: 75%;
   background-color: #DAF7A6
 }
+
 
 .nav {
   background-color: #B8B8B8;
   max-width: 25%;
   min-width: 140px;
   flex: 1;
-  height: 1000px;
+  height: 1600px;
 }
 
 table, th, td {
@@ -67,10 +68,3 @@ th {
 td {
 	background-color: #E8E8E8
 }
-.highlight:link {
-  color: white;
-}
-.highlight:visited {
-  color: white;
-}
-
